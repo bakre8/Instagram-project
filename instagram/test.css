@@ -1,0 +1,35 @@
+
+body {
+
+	background-color: grey;
+}
+
+nav {
+
+	background-color: white;
+	height: 60px;
+	padding-top: 20px;
+     }
+
+.Top {
+	float: right;
+	width: 50px;
+	height: 50px;
+	}
+
+.Ote {
+		width: 150px;
+		height: 50px;
+		margin-left: 500px;
+      }
+
+ .baba {
+		width: 50px;
+		height: 50px;
+		align: center;
+      }
+
+ .Thanks  {
+ 			border-radius: 100px;
+
+          }   
